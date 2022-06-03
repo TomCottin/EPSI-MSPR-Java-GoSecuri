@@ -1,0 +1,25 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+h4{
+      font-family: bold;
+      font-size: 30px;
+      text-decoration: underline;
+  }
+
+button{
+      background-color:green;
+  }
+
+a{
+  color : black;
+}

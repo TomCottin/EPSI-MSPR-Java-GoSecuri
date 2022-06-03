@@ -1,0 +1,46 @@
+.flex-container {
+    display: flex;
+    background-color: #f1f1f1;
+  }
+  
+h4{
+    font-family: bold;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    color: black;
+    border-bottom: 3px solid black;
+  }
+
+  .flex-container > div {
+    color: black;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+
+  #flex1{
+     text-align:left;
+  }
+
+  #flex2{
+    text-align:left;
+ }
+
+  #flex3{
+      border-left: 3px solid black;
+      text-align:left;
+  }
+
+  #flex-Identification{
+      margin-left: 30px;
+  }
+
+  #horns {
+    height: 30px;
+    width: 30px;
+  }

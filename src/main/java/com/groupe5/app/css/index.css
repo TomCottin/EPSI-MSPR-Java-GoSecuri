@@ -1,0 +1,58 @@
+main {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.contenu1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenu2 {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.contenu3 {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block_1{
+    margin-right: 10px;
+}
+
+.block_2{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.mousqueton{
+    border-style: ridge;
+    font-family:courier;
+}
+
+.block_3{
+    margin-right: 10px;
+}
+
+.block_4{
+    margin-right: 10px;
+    margin-left: 55px;
+}
+
+.block_5{
+    margin-right: 10px;
+    border-style: ridge;
+    font-family:courier;
+}
+
+.block_6{
+    border-style: ridge;
+    font-family:courier;
+    margin-left: 125px;
+}
+
